@@ -1,0 +1,8 @@
+iwpriv ra0 set DriverVersion=1
+Driver version-4.1.0.0 Feb  9 2017 16:10:05
+fw version:0.0.00 build:4a
+build time:FjXc|긖?
+
+
+iwpriv rai0 set DriverVersion=1 
+Driver version-3.0.0.9 Feb  9 2017 16:01:28
